@@ -1,0 +1,12 @@
+
+#EXTM3U
+#EXTINF: 1, ESPN USA
+https://e10.espncdn.xyz/ingestnb4s/costa/master.m3u8
+#EXTINF: 1, ESPN 2 USA
+https://e10.espncdn.xyz/ingestnb4s/espn2_usa/master.m3u8
+#EXTINF: 1, SOCCER
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/ubqnbz9ru.m3u8?s=J6YpoMYJ729KFiZSwjry4g&e=1616887177
+#EXTINF: 1, SERBIA VS PORTUGAL
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/walxjawfo5x.m3u8?s=hvtqgDeYbLhwR4S9h2j7fQ&e=1616887350
+#EXTINF: 1, TUDN USA
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/enk84bcf5g.m3u8?s=Bo3JAb-mB07dHXTmN2sk_A&e=1616887560
